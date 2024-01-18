@@ -1,0 +1,51 @@
+SEJARAH DAN DEFINIS IOT
+
+Internet of Things atau yang biasa disingkat IoT adalah teknologi yang disebut akan mengubah dunia dengan menciptakan jaringan raksasa yang menghubungkan berbagai perangkat melalui internet. IoT membangun konsep masa depan di mana perangkat yang saling terhubung bisa berkomunikasi satu sama lain dan bekerja secara mandiri tanpa campur tangan manusia.
+
+
+Istilah “internet of things” pertama kali dicetuskan pada tahun 1999 oleh Kevin Ashton saat melakukan presentasi untuk perusahaan Procter & Gamble (P&G), di mana ia menjelaskan mengenai teknologi yang menghubungkan berbagai perangkat dengan bantuan RFID (radio frequency identification) dan mengatur semuanya dengan komputer. Konsep dari teknologi internet of things itu sendiri adalah memasangkan pemancar sinyal jarak pendek yang berukuran kecil ke beragam perangkat dan keperluan sehari-hari untuk menciptakan bentuk interaksi baru antara manusia dengan perangkat hingga antara perangkat dengan perangkat lain.
+
+ 
+Penggunaan kata “internet” oleh Kevin Ashton pada presentasinya sebenarnya hanya untuk menarik perhatian pendengarnya, karena pada saat itu internet merupakan topik yang sangat digemari. Konsep IoT yang dikenalkan Ashton saat itu menggunakan RFID tag, berbeda dengan teknologi saat ini yang merupakan IP based IoT. Namun terobosan yang digagas Ashton saat itu menginspirasi perkembangan teknologi internet hingga seperti saat ini.
+
+ 
+Internet of things bisa dibilang lahir pada tahun 2008, yang kemudian dikokohkan dengan konferensi internasional pertama membahas internet of things yang diadakan di Swiss dan dihadiri peserta dari 23 negara. Sejak itu, IoT mengalami perkembanngan pesat dengan ditambahkannya IPv6 – network layer protocol yang merupakan pusat IoT – diluncurkan secara publik.
+
+
+IMPLEMENTASI DAN CONTOH IOT
+
+1. Smart Office
+Sistem pencahayaan otomatis dengan sensor khusus. Saat tidak ada ruangan, maka lampu akan mati secara otomatis. Sebaliknya, saat ada orang masuk maka lampu akan menyala.
+
+2. Smart Home
+Sistem keamanan yang dilengkapi kamera pengawas dan sensor gerak.
+
+3. Smart City
+Sistem Transportasi cerdas
+
+
+MACAM MACAM KEBUTUHAN IOT
+Monitoring dan Pemantauan:Monitoring dan Pemantauan:
+
+Kebutuhan untuk memantau kondisi lingkungan, seperti suhu, kelembaban, dan tekanan, baik di dalam ruangan maupun di lapangan.
+Optimasi Proses Produksi:
+
+Kebutuhan untuk mengoptimalkan proses produksi industri dengan menggunakan sensor dan perangkat terhubung untuk mendeteksi dan mengatasi masalah operasional.
+Manajemen Energi:
+
+Kebutuhan untuk efisiensi energi dengan menggunakan perangkat IoT untuk mengontrol dan memantau konsumsi energi di rumah, bangunan, atau fasilitas industri.
+Keamanan dan Pemantauan Keamanan.
+
+REFERENSI MODEL IOT
+
+1. Physical Devices & Controller
+
+Layer pertama dari referensi model IoT adalah Physical Devices & Controller. Layer ini merupakan layer terbawah dalam hierarki referensi model IoT yang bertanggung jawab untuk mengumpulkan data dari sensor atau perangkat yang terhubung ke jaringan IoT. Pada layer ini, perangkat keras seperti Raspberry Pi, Arduino, dan sensor-sensor IoT berada di dalamnya. Raspberry Pi dan Arduino sering digunakan sebagai kontroler atau gateway untuk menghubungkan beberapa sensor dan perangkat IoT ke jaringan internet.
+
+2. Connectivity Layer
+
+kedua dari referensi model IoT adalah Connectivity. Pada layer ini, perangkat IoT terhubung ke jaringan internet melalui koneksi nirkabel atau kabel. Router dan modem adalah contoh perangkat yang digunakan untuk menghubungkan perangkat IoT ke jaringan internet. Selain itu, protokol seperti Wi-Fi, Bluetooth, Zigbee, dan Z-Wave juga digunakan untuk menghubungkan perangkat IoT ke jaringan internet.
+
+3. Edge Computing
+
+Layer ketiga dari referensi model IoT adalah Edge Computing. Pada layer ini, proses komputasi dilakukan di perangkat IoT atau di tepi jaringan (edge of the network), bukan di server pusat. Edge computing memungkinkan pengolahan data secara real-time dan mengurangi beban jaringan, sehingga meningkatkan kecepatan dan efisiensi pengolahan data. Apache Kafka dan Apache Spark adalah contoh teknologi edge computing yang sering digunakan pada layer ini.
